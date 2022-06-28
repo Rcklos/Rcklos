@@ -37,7 +37,8 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         2 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜   83.48 %
+JavaScript   0 secs          🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.52 %
 ```
 
 <!--END_SECTION:waka-->
