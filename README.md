@@ -5,8 +5,8 @@
 
 I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 
--   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
--   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
+-   :hammer_and_pick: C++ / Spring / STM32 / Python / TypeScript / Vue
+-   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [dwn](https://dwm.suckless.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Taking courses & doing assignments at THU
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/Rcklos/Rcklos/discussions/new)!
