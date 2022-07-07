@@ -3,7 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rcklos&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rcklos#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rcklos&show_icons=true">](https://metrics.lecoq.io/Rcklos#gh-light-mode-only)
 
-I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
+I'm Y**ou** **RCKLOS**.
 
 -   :hammer_and_pick: C++ / Spring / STM32 / Python / TypeScript / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [dwn](https://dwm.suckless.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
