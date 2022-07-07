@@ -7,7 +7,7 @@ I'm Y**ou** **RCKLOS**.
 
 -   :hammer_and_pick: C++ / Spring / STM32 / Python / TypeScript / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [dwn](https://dwm.suckless.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Taking courses & doing assignments at THU
+-   :seedling: Taking courses
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/Rcklos/Rcklos/discussions/new)!
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/Rcklos.gpg)
