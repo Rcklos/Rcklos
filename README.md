@@ -26,13 +26,6 @@ I'm Y**ou** **RCKLOS**.
       <br />
       <a href="https://github.com/takuketsutou">takuketsutou</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/ffxixslh">
-        <img src="https://avatars2.githubusercontent.com/u/94098205" width="100px;" alt="ffxixslh"/>
-      </a>
-      <br />
-      <a href="https://github.com/ffxixslh">ffxixslh</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
