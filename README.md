@@ -31,7 +31,7 @@ I'm Y**ou** **RCKLOS**.
         <img src="https://avatars2.githubusercontent.com/u/94098205" width="100px;" alt="ffxixslh"/>
       </a>
       <br />
-      <a href="https://github.com/ffxixslh">ffxixslh</a>
+      <a href="https://github.com/ffxixslh">Hugo Luo</a>
     </td>
   </tr>
 </table>
