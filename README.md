@@ -44,7 +44,7 @@ I'm Y**ou** **RCKLOS**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
 Total Time: 26 mins
 
