@@ -56,7 +56,3 @@ Other            59 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 <!--END_SECTION:waka-->
 
 ---
-
-#### :star2: [Projects starred by me](https://github.com/maguowei/starred)
-
-[My Awesome Stars](AWESOME-STARS.md)
