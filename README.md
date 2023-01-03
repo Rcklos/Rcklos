@@ -14,7 +14,7 @@ I'm Y**ou** **RCKLOS**.
 
 ---
 
-#### :sparkles: [My followers](src/getTopFollowers.py)
+#### :sparkles: [My brothers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 <table>
