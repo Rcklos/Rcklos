@@ -20,6 +20,13 @@ I'm Y**ou** **RCKLOS**.
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/EricsmOOn">
+        <img src="https://avatars2.githubusercontent.com/u/31581070" width="100px;" alt="EricsmOOn"/>
+      </a>
+      <br />
+      <a href="https://github.com/EricsmOOn">Eric Wong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/takuketsutou">
         <img src="https://avatars2.githubusercontent.com/u/55187562" width="100px;" alt="takuketsutou"/>
       </a>
