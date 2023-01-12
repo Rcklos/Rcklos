@@ -1,7 +1,7 @@
 ## Hey, Rcklos here! :wave:
 
-[<img align="right" width="50%" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/)/api?username=Rcklos&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rcklos#gh-dark-mode-only)
-[<img align="right" width="50%" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/)/api?username=Rcklos&show_icons=true">](https://metrics.lecoq.io/Rcklos#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rcklos&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rcklos#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rcklos&show_icons=true">](https://metrics.lecoq.io/Rcklos#gh-light-mode-only)
 
 I'm **RCKLOS**.
 
