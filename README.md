@@ -51,7 +51,7 @@ I'm **RCKLOS**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
 Total Time: 33 mins
 
