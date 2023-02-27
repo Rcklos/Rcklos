@@ -8,6 +8,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [Dart](#dart)
+- [Erlang](#erlang)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -24,6 +25,10 @@
 ## Dart 
 
 - [Rcklos/flame_test](https://github.com/Rcklos/flame_test) - 学习Flame而建的仓库
+
+## Erlang 
+
+- [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
 
 ## Go 
 
