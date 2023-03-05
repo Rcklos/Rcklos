@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [Dart](#dart)
@@ -13,6 +14,10 @@
 - [HTML](#html)
 - [Java](#java)
 - [Python](#python)
+
+## C 
+
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 
 ## C# # 
 
@@ -44,7 +49,6 @@
 
 ## Python 
 
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [Rcklos/deep_learning_practice](https://github.com/Rcklos/deep_learning_practice) - 深度学习实践笔记代码仓库
 
 
