@@ -33,6 +33,7 @@
 
 ## Erlang 
 
+- [inaka/elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
 
 ## Go 
