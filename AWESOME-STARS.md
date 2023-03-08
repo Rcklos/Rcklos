@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [Dart](#dart)
@@ -14,10 +13,6 @@
 - [HTML](#html)
 - [Java](#java)
 - [Python](#python)
-
-## C 
-
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 
 ## C# # 
 
@@ -33,6 +28,7 @@
 
 ## Erlang 
 
+- [zhongwencool/observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Erlang/Elixir Nodes On The Command Line
 - [inaka/elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
 
@@ -50,6 +46,7 @@
 
 ## Python 
 
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [Rcklos/deep_learning_practice](https://github.com/Rcklos/deep_learning_practice) - 深度学习实践笔记代码仓库
 
 
