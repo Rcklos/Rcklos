@@ -42,6 +42,7 @@
 
 ## Java 
 
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [Rcklos/LentMe](https://github.com/Rcklos/LentMe) - 
 
 ## Python 
