@@ -28,6 +28,7 @@
 
 ## Erlang 
 
+- [erlang-lager/lager](https://github.com/erlang-lager/lager) - A logging framework for Erlang/OTP
 - [zhongwencool/observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Erlang/Elixir Nodes On The Command Line
 - [inaka/elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
