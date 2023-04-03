@@ -51,11 +51,11 @@ I'm **RCKLOS**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2023 - To: 01 April 2023
+From: 26 March 2023 - To: 02 April 2023
 
-Total Time: 2 hrs 48 mins
+Total Time: 2 hrs 21 mins
 
-Other      2 hrs 22 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.78 %
+Other      1 hr 34 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.95 %
 ```
 
 <!--END_SECTION:waka-->
