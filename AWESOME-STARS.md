@@ -20,6 +20,7 @@
 
 ## C++ 
 
+- [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [PanJinquan/openGL-Demo](https://github.com/PanJinquan/openGL-Demo) - openGL NDK Demo
 
 ## Dart 
