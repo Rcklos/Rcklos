@@ -12,6 +12,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
+- [JavaScript](#javascript)
 - [Python](#python)
 
 ## C# # 
@@ -48,6 +49,10 @@
 
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [Rcklos/LentMe](https://github.com/Rcklos/LentMe) - 
+
+## JavaScript 
+
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Python 
 
