@@ -27,11 +27,11 @@ I'm **RCKLOS**.
       <a href="https://github.com/EricsmOOn">Eric Wong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ffxixslh">
-        <img src="https://avatars2.githubusercontent.com/u/94098205" width="100px;" alt="ffxixslh"/>
+      <a href="https://github.com/HaoquanLuo">
+        <img src="https://avatars2.githubusercontent.com/u/94098205" width="100px;" alt="HaoquanLuo"/>
       </a>
       <br />
-      <a href="https://github.com/ffxixslh">Haoquan Luo</a>
+      <a href="https://github.com/HaoquanLuo">ffxixslh</a>
     </td>
     <td align="center">
       <a href="https://github.com/takuketsutou">
