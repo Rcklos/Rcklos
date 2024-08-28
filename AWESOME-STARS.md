@@ -12,8 +12,8 @@
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
-- [JavaScript](#javascript)
 - [Python](#python)
+- [TypeScript](#typescript)
 
 ## C# # 
 
@@ -52,14 +52,14 @@
 
 - [Rcklos/LentMe](https://github.com/Rcklos/LentMe) - 
 
-## JavaScript 
-
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
 ## Python 
 
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [Rcklos/deep_learning_practice](https://github.com/Rcklos/deep_learning_practice) - 深度学习实践笔记代码仓库
+
+## TypeScript 
+
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 
 ## License
