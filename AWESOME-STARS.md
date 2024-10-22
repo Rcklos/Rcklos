@@ -13,6 +13,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
+- [Lua](#lua)
 - [Python](#python)
 - [TypeScript](#typescript)
 
@@ -57,6 +58,10 @@
 ## Java 
 
 - [Rcklos/LentMe](https://github.com/Rcklos/LentMe) - 
+
+## Lua 
+
+- [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 
 ## Python 
 
