@@ -11,7 +11,6 @@
 - [Dart](#dart)
 - [Erlang](#erlang)
 - [Go](#go)
-- [HTML](#html)
 - [Java](#java)
 - [Lua](#lua)
 - [Python](#python)
@@ -52,10 +51,6 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [bobohume/gonet](https://github.com/bobohume/gonet) - go分布式服务器，基于内存mmo
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
-
-## HTML 
-
-- [wangpengcheng/wangpengcheng.github.io](https://github.com/wangpengcheng/wangpengcheng.github.io) - BY Blog -&gt;
 
 ## Java 
 
