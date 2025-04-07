@@ -69,7 +69,7 @@
 
 ## Rust 
 
-- [CppCXY/emmylua-analyzer-rust](https://github.com/CppCXY/emmylua-analyzer-rust) - 
+- [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 
 ## TypeScript 
 
