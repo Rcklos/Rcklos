@@ -51,7 +51,7 @@ I'm **RCKLOS**.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2025 - To: 12 July 2025
+From: 06 July 2025 - To: 13 July 2025
 
 Total Time: 18 hrs 33 mins
 
