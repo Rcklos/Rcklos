@@ -53,6 +53,7 @@
 
 ## Go 
 
+- [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [bobohume/gonet](https://github.com/bobohume/gonet) - go分布式服务器，基于内存mmo
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
@@ -68,6 +69,7 @@
 
 ## Python 
 
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  MaxKB 是强大易用的开源企业级智能体平台。
 - [JonkeyGuan/sonarqube-issue-ai-suggestion](https://github.com/JonkeyGuan/sonarqube-issue-ai-suggestion) - SonarQube Issue AI Suggestion
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [Rcklos/deep_learning_practice](https://github.com/Rcklos/deep_learning_practice) - 深度学习实践笔记代码仓库
