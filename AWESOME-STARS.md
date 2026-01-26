@@ -70,6 +70,7 @@
 
 ## Python 
 
+- [notarious2/fastapi-chat](https://github.com/notarious2/fastapi-chat) - Real-time chat with FastAPI, Websockets and SQLAlchemy2
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [JonkeyGuan/sonarqube-issue-ai-suggestion](https://github.com/JonkeyGuan/sonarqube-issue-ai-suggestion) - SonarQube Issue AI Suggestion
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
