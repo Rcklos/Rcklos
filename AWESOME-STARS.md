@@ -9,10 +9,10 @@
 - [C#](#c#)
 - [C++](#c++)
 - [Dart](#dart)
-- [Dockerfile](#dockerfile)
 - [Erlang](#erlang)
 - [Go](#go)
 - [Java](#java)
+- [JavaScript](#javascript)
 - [Lua](#lua)
 - [Python](#python)
 - [Rust](#rust)
@@ -39,10 +39,6 @@
 
 - [Rcklos/flame_test](https://github.com/Rcklos/flame_test) - 学习Flame而建的仓库
 
-## Dockerfile 
-
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
 ## Erlang 
 
 - [dong50252409/behavior3erl](https://github.com/dong50252409/behavior3erl) - Behavior3 runtime library for Erlang (Behavior Trees for Erlang)
@@ -62,6 +58,10 @@
 
 - [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
 - [Rcklos/LentMe](https://github.com/Rcklos/LentMe) - 
+
+## JavaScript 
+
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Lua 
 
