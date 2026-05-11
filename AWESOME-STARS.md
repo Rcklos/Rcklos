@@ -12,8 +12,8 @@
 - [Erlang](#erlang)
 - [Go](#go)
 - [Java](#java)
-- [JavaScript](#javascript)
 - [Lua](#lua)
+- [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [TypeScript](#typescript)
@@ -59,14 +59,14 @@
 - [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
 - [Rcklos/LentMe](https://github.com/Rcklos/LentMe) - 
 
-## JavaScript 
-
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
 ## Lua 
 
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
+
+## Others 
+
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Python 
 
