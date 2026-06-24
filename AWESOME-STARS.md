@@ -49,7 +49,7 @@
 
 ## Go 
 
-- [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
+- [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 现代化、开源的K8s 面板，1Panel 官方出品。
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [bobohume/gonet](https://github.com/bobohume/gonet) - go分布式服务器，基于内存mmo
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
