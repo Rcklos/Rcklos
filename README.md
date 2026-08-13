@@ -51,15 +51,15 @@ I'm **RCKLOS**.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-Total Time: 40 hrs 53 mins
+Total Time: 37 hrs 4 mins
 
-Lua        27 hrs 32 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   67.22 %
-Markdown   9 hrs 26 mins         🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.04 %
-Go         2 hrs 10 mins         🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.31 %
-sproto     1 hr 6 mins           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.70 %
-Python     19 mins               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.77 %
+Lua        24 hrs 30 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜   65.93 %
+Markdown   6 hrs 15 mins         🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.86 %
+Go         3 hrs 56 mins         🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.60 %
+sproto     1 hr 4 mins           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.87 %
+JSON       32 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.44 %
 ```
 
 <!--END_SECTION:waka-->
